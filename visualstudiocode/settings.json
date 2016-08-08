@@ -1,0 +1,6 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "editor.cursorBlinking": "visible",
+    "editor.fontSize": 20,
+    "editor.tabSize": 2
+}
